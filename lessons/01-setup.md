@@ -10,7 +10,7 @@ Everything in this course will build on that concept.
 
 ---
 
-# 🔹 Part 1 — What Is a Motor?
+# ⭐ Part 1 — What Is a Motor?
 
 A motor converts electrical energy into rotational motion.
 
@@ -47,7 +47,7 @@ This is called **open-loop control**.
 
 ---
 
-# 🔹 Part 2 — Open Loop vs Closed Loop
+# ⭐ Part 2 — Open Loop vs Closed Loop
 
 ## Open Loop
 
@@ -88,7 +88,7 @@ Closed-loop systems require **feedback**.
 
 ---
 
-# 🔹 Part 3 — What Is Feedback?
+# ⭐ Part 3 — What Is Feedback?
 
 Feedback means the robot can measure itself.
 
@@ -115,7 +115,7 @@ That difference is called **error**.
 
 ---
 
-# 🔹 Part 4 — Understanding Error
+# ⭐ Part 4 — Understanding Error
 
 Error is defined as:
 
@@ -142,7 +142,7 @@ Control systems exist to drive error toward zero.
 
 ---
 
-# 🔹 Part 5 — Why Autonomous Is Inconsistent
+# ⭐ Part 5 — Why Autonomous Is Inconsistent
 
 If your robot:
 
@@ -172,7 +172,7 @@ That’s what this course will teach.
 
 ---
 
-# 🔹 Part 6 — A Simple Control Attempt
+# ⭐ Part 6 — A Simple Control Attempt
 
 Imagine we write this:
 
@@ -208,7 +208,7 @@ That idea leads directly to **Proportional control**.
 
 ---
 
-# 🔹 Part 7 — The Control Loop Pattern
+# ⭐ Part 7 — The Control Loop Pattern
 
 Every advanced system we build (P, PID, PIDF, Odometry) follows this structure:
 
@@ -224,7 +224,7 @@ But the structure never changes.
 
 ---
 
-# 🔹 Part 8 — Why This Matters
+# ⭐ Part 8 — Why This Matters
 
 If you understand:
 
